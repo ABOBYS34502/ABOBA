@@ -1,0 +1,187 @@
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:24.428973
+Start name method: authorization
+
+End time: 2023-05-16 20:37:26.665811
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:26.666437
+Start name method: select_product
+
+End time: 2023-05-16 20:37:26.871215
+End name method: select_product
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:26.871758
+Start name method: check_out_button
+
+End time: 2023-05-16 20:37:26.981418
+End name method: check_out_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:26.982236
+Start name method: check_out_fields
+
+End time: 2023-05-16 20:37:27.542665
+End name method: check_out_fields
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:27.543050
+Start name method: click_finish_button
+
+End time: 2023-05-16 20:37:27.644489
+End name method: click_finish_button
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product (call)
+Start time: 2023-05-16 20:37:27.644843
+Start name method: finish_screen_shot
+
+End time: 2023-05-16 20:37:27.777667
+End name method: finish_screen_shot
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_3 (call)
+Start time: 2023-05-16 20:37:33.785426
+Start name method: authorization
+
+End time: 2023-05-16 20:37:37.355660
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_3 (call)
+Start time: 2023-05-16 20:37:37.526001
+Start name method: check_out_button
+
+End time: 2023-05-16 20:37:37.628390
+End name method: check_out_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_3 (call)
+Start time: 2023-05-16 20:37:37.628854
+Start name method: check_out_fields
+
+End time: 2023-05-16 20:37:38.063128
+End name method: check_out_fields
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_3 (call)
+Start time: 2023-05-16 20:37:38.063461
+Start name method: click_finish_button
+
+End time: 2023-05-16 20:37:38.167492
+End name method: click_finish_button
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_3 (call)
+Start time: 2023-05-16 20:37:38.167856
+Start name method: finish_screen_shot
+
+End time: 2023-05-16 20:37:38.294956
+End name method: finish_screen_shot
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_2 (call)
+Start time: 2023-05-16 20:37:44.004097
+Start name method: authorization
+
+End time: 2023-05-16 20:37:45.552075
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_2 (call)
+Start time: 2023-05-16 20:37:45.746112
+Start name method: check_out_button
+
+End time: 2023-05-16 20:37:45.853130
+End name method: check_out_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_2 (call)
+Start time: 2023-05-16 20:37:45.853507
+Start name method: check_out_fields
+
+End time: 2023-05-16 20:37:46.287533
+End name method: check_out_fields
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_2 (call)
+Start time: 2023-05-16 20:37:46.287992
+Start name method: click_finish_button
+
+End time: 2023-05-16 20:37:46.390290
+End name method: click_finish_button
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_select_product_2 (call)
+Start time: 2023-05-16 20:37:46.390774
+Start name method: finish_screen_shot
+
+End time: 2023-05-16 20:37:46.512025
+End name method: finish_screen_shot
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_link_about.py::test_link_about (call)
+Start time: 2023-05-16 20:37:52.220955
+Start name method: authorization
+
+End time: 2023-05-16 20:37:53.762597
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
